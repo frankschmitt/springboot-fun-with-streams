@@ -13,3 +13,8 @@ Get 50k unique greetings (yay!):
 curl http://localhost:8080/greetings?count=50000 > /dev/null
 
 (tested with up to 50M, this will bump memory usage to ~20 GB)
+
+
+= License
+Apache License (see LICENSE)
+
