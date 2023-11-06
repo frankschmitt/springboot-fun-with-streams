@@ -1,0 +1,8 @@
+= Synopsis
+Fun with Spring Boot + streaming / no streaming 
+
+= Run it
+
+== No streaming
+cd demo-no-streaming
+./gradlew run
